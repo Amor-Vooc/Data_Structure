@@ -15,8 +15,8 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <None Include="README.md">
-      <Filter>资源文件</Filter>
-    </None>
+    <ClCompile Include="Student_Rank_System.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
